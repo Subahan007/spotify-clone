@@ -1,0 +1,305 @@
+body{
+  background-color: black; 
+   color: aliceblue; 
+  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.head1{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img1{
+    position: relative;
+    left: 50px;
+}
+.img2{
+   position: relative;
+   left: 300px;
+}
+.input-head{
+    position: relative;
+    left: -20px;
+  width: 450px;
+height: 45px;
+    display: inline-block;
+   border:2px solid rgb(255, 255, 255);
+   border-radius: 30px;
+   background-color: transparent;
+   padding-left:40px;
+   padding-right: 40px;
+   color: white;
+   font-size: 15px;
+  
+}
+.input-img{
+    position: relative;
+    left: 240px;
+}
+.input-img2{
+    position: relative;
+    left: 500px;
+    padding-left: 8px;
+    border-left: 2px solid white;
+}
+.input-head:hover{
+    border: 3px solid white;
+}
+
+#h-span{
+    position: relative;
+    right:-230px;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    font-family: cursive;   
+}
+#h-span:hover{
+font-size: 20px;
+}
+#h-but1{
+    background-color: white;
+    position: relative;
+    right: -70px; 
+    border: 1px solid black;
+    background-color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    padding: 8px;
+    border-radius: 50px;
+}
+#h-but1:hover{
+    color: rgb(144, 142, 142);
+   
+    width: 103px;
+   
+    color: black;
+}
+#h-span:hover{
+font-size: 20px;
+}
+aside{
+    width: 350px;
+    background-color: rgb(12, 12, 12);
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+   
+}
+.asidepara1{
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    font-size: 20px;
+}
+.asidepara1:hover{
+    color: rgb(91, 246, 91);
+}
+.img4{
+    float: right;
+}
+.asidediv1{
+    background-color: rgb(23, 23, 23);
+    height: 120px;
+    border-radius: 10px;
+    padding: 20px;
+}
+#divpara1{
+    display: inline;
+    font-size: 20px;
+}
+
+#divpara2{
+    display: inline;
+    font-size: 15px;
+}
+
+#aside-but1{
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+    font-size: 15px;
+    border: solid rgb(255, 255, 255);
+}
+#aside-but1:hover{
+    background-color: white;
+    border:5px solid white;
+}
+.asidediv2{
+    background-color: rgb(23, 23, 23);
+    height: 120px;
+    border-radius: 10px;
+    padding: 20px;
+}
+#asideA{
+    color: white;
+    font-size: 15px;
+}
+#aside-but2{
+    padding: 8px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 15px;
+    border:0.5px solid rgb(255, 255, 255);
+    background-color: black;
+    color: white;
+}
+#but-img{
+    position: relative;
+    left: -10px;
+}
+article{
+    width: 1090px;
+    background-color: rgb(12, 12, 12);
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+#article-a{
+    color: white;
+}
+.head3{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    color: white;
+   padding-left: 20px;
+    padding-right: 20px;
+}
+#head2linkp{
+    color: white;
+    font-size: 25px;
+    
+}
+#head2linkp:hover{
+    text-decoration: underline;
+    color: rgb(91, 246, 91);
+}
+#head2linkp2{
+    color: white;
+    font-size: 15px;
+    
+}
+#article-div1{
+    padding: 20px;
+    display: inline-block;
+}
+#article-div1:hover{
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+}
+#article-img1{
+    width: 160px;
+    border-radius: 50%;
+}
+#article-img2{
+    width: 170px;
+    border-radius: 50%;
+}
+#article-img3{
+    width: 160px;
+    border-radius: 10%;
+}
+#article-img4{
+    width: 170px;
+    border-radius: 10%;
+}
+#article-span{
+    font-size: 20px;
+}
+#article-span1{
+    color: rgb(116, 114, 114);
+    font-size: 15px;
+}
+
+#lastdiv{
+display: inline-block;
+vertical-align: top;
+padding-left: 7%;
+}
+#lastdiv-p{
+    font-size: 20px;
+}
+
+#lastdiv-a{
+    color: white;
+    font-size: 15px;
+    
+}
+#lastdiv-a:hover{
+    text-decoration: underline;
+    color: green;
+}
+#lastdiv-img{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    right: -150px;
+    bottom: -15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
